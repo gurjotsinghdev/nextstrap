@@ -1,3 +1,9 @@
+## About Nextstrap
+
+Nextstrap is a component library built to provide ready to use sections for pages for NextJS. It is an effort to help developers create faster websites. 
+
+To use Nextstrap, follow the instruction below and use the components with their styles. Simply import the components and their respective styles into your project and build websites faster. 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
